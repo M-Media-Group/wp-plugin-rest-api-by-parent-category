@@ -38,12 +38,15 @@ Yes, this plugin is free to use.
 
 == Changelog ==
 
+= 1.0.1 =
+* Updated supported WP version number.
+
 = 1.0 =
 * Initial commit.
 
 == Upgrade Notice ==
-= 1.0 =
-If you're not on 1.0 - are you really living?
+= 1.0.1 =
+If you're not on 1.0.1 - are you really living?
 
 == Privacy policy ==
 This plugin works locally. No data is sent to other servers, or stored anywhere.
