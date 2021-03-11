@@ -3,7 +3,7 @@
 Plugin Name: Get by taxonomy/category parent for WP REST API
 Description: Add the ability to get posts by the parent category in the WordPress REST API.
 Author: M Media
-Version: 1.0.0
+Version: 1.0.1
 Author URI: https://profiles.wordpress.org/Mmediagroup/
 License: GPL2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
